@@ -2,4 +2,6 @@
 Final project for Web Projects 2015 @ RISD: redesign of WebAdvisor.
 Practice with AngularJS.
 
-Final project proposal due next week
+## assignments
+- Final project proposal due next week
+- Make sure to write it all in MARKDOWN
