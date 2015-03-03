@@ -1,19 +1,16 @@
 # risd-harbor
-Final project for Web Projects 2015 @ RISD: redesign of WebAdvisor.
-Practice with AngularJS.
+Final project for Web Projects 2015 @ RISD: redesign of WebAdvisor and practice with AngularJS.
 ===================================================================
 
 ## Rough Timeline
-*	Remap current Webadvisor
-  *	Map elements and restructure user flow
-*	Wireframes in Sketch
-*	High-fidelity designs
-*	DEV: Build static pages without Angular
-*	DEV: Create dummy data
-*	DEV: Convert static pages to necessary templates in Angular
-*	POLISH: Add page transitions and interaction elements
-
-
+1.	Remap current Webadvisor
+2.	Map elements and restructure user flow
+3.	Wireframes in Sketch
+4.	High-fidelity designs
+5.	Build static pages without Angular
+6.	Create dummy data
+7.	Convert static pages to necessary templates in Angular
+8.	Add page transitions and interaction elements
 
 ## assignments
 - Final project proposal due next week
